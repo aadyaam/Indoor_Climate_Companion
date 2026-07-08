@@ -1,6 +1,8 @@
 # 🌿 Indoor Climate Companion using Arduino and Python
 
-This project demonstrates continuous indoor climate monitoring using an Arduino Uno and a DHT11 temperature and humidity sensor. Sensor readings are collected, logged into a CSV file, analyzed using Python, and visualized through graphs to provide meaningful insights into indoor environmental conditions. A Streamlit dashboard prototype and a Figma dashboard design were developed to explore different approaches for presenting the collected data.
+This project demonstrates continuous indoor climate monitoring using an Arduino Uno and a DHT11 temperature and humidity sensor. Sensor readings are collected, logged to a CSV file, analyzed in Python, and visualized as graphs to provide meaningful insights into indoor environmental conditions. A Streamlit dashboard prototype and a Figma dashboard design were developed to explore different approaches for presenting the collected data.
+
+As part of the development process, I built a functional dashboard prototype using Streamlit to visualize the collected data. While it successfully displayed the sensor readings and analysis, I chose to present the final dashboard as a Figma design to explore better the intended user experience and interface for a homeowner. Both the Streamlit prototype and the Figma dashboard are included in this repository to document the project's design process.
 
 ---
 
