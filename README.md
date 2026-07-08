@@ -180,7 +180,7 @@ Most importantly, this project helped me understand how hardware, software, and 
 
 ## 💭 Reflection
 
-This project was my first complete environmental monitoring system that combined electronics, data analysis, and dashboard design into a single workflow. Beyond collecting sensor readings, I focused on presenting the information in a way that is meaningful and easy to understand. It strengthened my understanding of how embedded systems, Python, and thoughtful interface design can work together to build practical IoT solutions.
+This project was my first complete environmental monitoring system that combined electronics, data analysis, and dashboard design into a single workflow. I collected sensor readings continuously for 24 hours, and I tried presenting the information in a way that is meaningful and easy to understand. It strengthened my understanding of how embedded systems, Python, and thoughtful interface design can work together to build practical IoT solutions.
 
 ---
 
