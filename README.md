@@ -35,7 +35,7 @@ The goals of this project were to:
 
 ### Dashboard
 
-![](dashboard UI.pdf)
+![](dashboard.png)
 
 ### 🌐 Live Demo
 
