@@ -35,8 +35,7 @@ The goals of this project were to:
 
 ### Dashboard
 
-- Streamlit dashboard prototype
-- Figma dashboard design
+![](dashboard UI.pdf)
 
 ### 🌐 Live Demo
 
